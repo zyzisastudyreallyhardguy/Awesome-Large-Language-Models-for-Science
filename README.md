@@ -6,23 +6,26 @@
 Curated list of science-focused large language model resources: LLM4Science
 
 ## Highlight
+| Title | Venue | Date(D/M/Y) | Code | Note |
+|-------|-------|-------------|------|------|
+|[Large Language Models for Scientific Synthesis, Inference and Explanation](https://arxiv.org/abs/2310.07984)|arxiv|12/10/2023|[GitHub](https://github.com/zyzisastudyreallyhardguy/LLM4SD)|automatic scientific discovery|
 
 ## General Science
-| Title | Venue | Date(D/M/Y) | Code | Demo |
+| Title | Venue | Date(D/M/Y) | Code | Note |
 |-------|-------|-------------|------|------|
-|[Large Language Models for Scientific Synthesis, Inference and Explanation](https://arxiv.org/abs/2310.07984)|arxiv|12/10/2023|[GitHub](https://github.com/zyzisastudyreallyhardguy/LLM4SD)|Coming Soon|
-|[Emergent autonomous scientific research capabilities of large language models](https://arxiv.org/abs/2304.05332)|arxiv|11/04/2023|-|-|
+|[Large Language Models for Scientific Synthesis, Inference and Explanation](https://arxiv.org/abs/2310.07984)|arxiv|12/10/2023|[GitHub](https://github.com/zyzisastudyreallyhardguy/LLM4SD)|automatic scientific discovery|
+|[Emergent autonomous scientific research capabilities of large language models](https://arxiv.org/abs/2304.05332)|arxiv|11/04/2023|-|automatic scientific experiments|
 |[SciEval: A Multi-Level Large Language Model Evaluation Benchmark for Scientific Research.](https://arxiv.org/abs/2308.13149)|arXiv|25/08/2023|-|-|
 |[Scibench: Evaluating college-level scientific problem-solving abilities of large language models.](https://arxiv.org/abs/2307.10635)|arXiv|20/07/2023|-|-|
 
 ## Pretrained Large Language Models
-| Title | Venue | Date(D/M/Y) | Code | Demo |
+| Title | Venue | Date(D/M/Y) | Code | Note |
 |-------|-------|------|------|------|
 |[Galactica: A large language model for science](https://arxiv.org/abs/2211.09085)|arxiv|16/11/2022|[GitHub](https://github.com/paperswithcode/galai)|-|
 |[SciBERT: A Pretrained Language Model for Scientific Text](https://arxiv.org/abs/1903.10676)|arxiv|26/03/2019|[GitHub](https://github.com/allenai/scibert)|-|
 
 ## Biology/Chemistry/Molecules
-| Title | Venue | Date(D/M/Y) | Code | Demo |
+| Title | Venue | Date(D/M/Y) | Code | Note |
 |-------|-------|------|------|------|
 |[CodonBERT: Large Language Models for mRNA design and optimization](https://www.biorxiv.org/content/10.1101/2023.09.09.556981v1.full)|bioRxiv|12/09/2023|-|-|
 |[ChatGPT, GPT-4, and Other Large Language Models: The Next Revolution for Clinical Microbiology?](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciad407/7217675?login=false)|Clinical Infectious Diseases|03/07/2023|-|-|
@@ -37,7 +40,7 @@ Curated list of science-focused large language model resources: LLM4Science
 
 
 ## Medical/Clinical Science
-| Title | Venue | Date(D/M/Y) | Code | Demo |
+| Title | Venue | Date(D/M/Y) | Code | Note |
 |-------|-------|------|------|------|
 |[Large language models in medicine](https://www.nature.com/articles/s41591-023-02448-8)|nature medicine(review)|-|-|-|
 |[The shaky foundations of large language models and foundation models for electronic health records](https://www.nature.com/articles/s41746-023-00879-8)|npj Digital Medicine|-|-|-|
@@ -46,18 +49,18 @@ Curated list of science-focused large language model resources: LLM4Science
 
 
 ## Physics
-| Title | Venue | Date(D/M/Y) | Code | Demo |
+| Title | Venue | Date(D/M/Y) | Code | Note |
 |-------|-------|------|------|------|
 |[Do Using Large Language Model to Solve and Explain Physics Word Problems Approaching Human Level.](https://arxiv.org/abs/2309.08182)|arXiv|15/09/2023|-|-|
 |[14 examples of how LLMs can transform materials science and chemistry: a reflection on a large language model hackathon](https://pubs.rsc.org/en/content/articlehtml/2023/dd/d3dd00113j)|Digital Discovery|12/06/2023|-|-|
 
 ## Math
-| Title | Venue | Date(D/M/Y) | Code | Demo |
+| Title | Venue | Date(D/M/Y) | Code | Note |
 |-------|-------|------|------|------|
 |[Large language model for science: A study on P vs. NP.](https://arxiv.org/abs/2309.05689)|arXiv|11/09/2023|-|-|
 
 ## Plant Science
-| Title | Venue | Date(D/M/Y) | Code | Demo |
+| Title | Venue | Date(D/M/Y) | Code | Note |
 |-------|-------|-------------|------|------|
 |[One hundred important questions facing plant science derived using a large language model](https://www.cell.com/trends/plant-science/fulltext/S1360-1385(23)00199-1) |Trends in Plant Science|2023|Elsevier|-|
 
