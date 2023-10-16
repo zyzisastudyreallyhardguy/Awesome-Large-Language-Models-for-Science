@@ -75,7 +75,7 @@ A curated list of science-focused large language model resources: LLM4Science.
 |[Advances in apparent conceptual physics reasoning in GPT-4](https://arxiv.org/abs/2303.17012)|arxiv|29/03/2023|-|-|
 |[Using Large Language Model to Solve and Explain Physics Word Problems Approaching Human Level](https://arxiv.org/pdf/2309.08182.pdf)|arxiv|20/09/2023|-|-|
 |[MeLM, a generative pretrained language modeling framework that solves forward and inverse mechanics problems](https://www.sciencedirect.com/science/article/pii/S0022509623002582)|Journal of the Mechanics and Physics of Solids|23/09/2023|-|-|
-|[Perspective: Large Language Models in Applied Mechanics]([https://www.sciencedirect.com/science/article/pii/S0022509623002582](https://asmedigitalcollection.asme.org/appliedmechanics/article-abstract/90/10/101008/1164084/Perspective-Large-Language-Models-in-Applied?redirectedFrom=fulltext))|Jouranl of Applied Mechanics|17/07/2023|-|-|
+|[Perspective: Large Language Models in Applied Mechanics](https://asmedigitalcollection.asme.org/appliedmechanics/article-abstract/90/10/101008/1164084/Perspective-Large-Language-Models-in-Applied?redirectedFrom=fulltext)|Jouranl of Applied Mechanics|17/07/2023|-|-|
 
 ## Material Science 
 | Title | Venue | Date(D/M/Y) | Code | Note |
