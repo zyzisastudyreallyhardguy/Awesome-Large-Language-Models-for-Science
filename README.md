@@ -1,4 +1,4 @@
-# Awesome-Large-Language-Models-for-Science-LLM4Science
+# Awesome-Large-Language-Models-for-Science-LLM4Science [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <p align="center">
 <img src="https://github.com/zyzisastudyreallyhardguy/Awesome-Large-Language-Models-for-Science/assets/75228223/aa635e90-ec77-46f4-90dc-94a9f148a753" width="400"/>
 </p>
