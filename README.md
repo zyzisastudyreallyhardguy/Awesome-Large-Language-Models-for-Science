@@ -1,6 +1,6 @@
 # Awesome-Large-Language-Models-for-Science-LLM4Science
 <p align="center">
-<img src="https://github.com/zyzisastudyreallyhardguy/Awesome-Large-Language-Models-for-Science-LLM4Science/assets/75228223/2ade3fa7-c03c-4628-960b-9f52ffd71b45" width="400"/>
+<img src="https://github.com/zyzisastudyreallyhardguy/Awesome-Large-Language-Models-for-Science/assets/75228223/aa635e90-ec77-46f4-90dc-94a9f148a753" width="400"/>
 </p>
 
 A curated list of science-focused large language model resources: LLM4Science.
