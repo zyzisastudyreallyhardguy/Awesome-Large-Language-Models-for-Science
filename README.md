@@ -87,7 +87,7 @@ A curated list of science-focused large language model resources: LLM4Science.
 |[Benefits, limits, and risks of GPT-4 as an AI chatbot for medicine](https://www.nejm.org/doi/full/10.1056/NEJMsr2214184)|The New England journal of medicine|30/03/2023|-|-|
 |[BioinspiredLLM: Conversational Large Language Model for the Mechanics of Biological and Bio-inspired Materials](https://arxiv.org/ftp/arxiv/papers/2309/2309.08788.pdf)|arxiv|15/09/2023|-|-|
 |[MatSciBERT: A materials domain language model for text mining and information extraction](https://www.nature.com/articles/s41524-022-00784-w)|computational materials|03/05/2022|-|-|
-|[MatSciBERT: A Materials Domain Language Model for Text Mining and Information Extraction](https://arxiv.org/ftp/arxiv/papers/2109/2109.15290.pdf)|computational materials|30/09/2021|-|-|
+|[Material transformers: deep learning language models for generative materials design](https://iopscience.iop.org/article/10.1088/2632-2153/acadcd/meta)|Machine Learning: Science and Technology|05/01/2021|-|-|
 
 ## Math
 | Title | Venue | Date(D/M/Y) | Code | Note |
