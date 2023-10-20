@@ -70,7 +70,7 @@ A curated list of science-focused large language model resources: LLM4Science.
 ## Physics
 | Title | Venue | Date(D/M/Y) | Code | Note |
 |-------|-------|------|------|------|
-|[Do Using Large Language Model to Solve and Explain Physics Word Problems Approaching Human Level.](https://arxiv.org/abs/2309.08182)|arXiv|15/09/2023|-|-|
+|[PhysNLU: A Language Resource for Evaluating Natural Language Understanding and Explanation Coherence in Physics](https://arxiv.org/abs/2201.04275)|arXiv|02/06/2023|-|-|
 |[Evaluating large language models on a highly-specialized topic, radiation oncology physics](https://arxiv.org/abs/2304.01938)|arxiv|01/04/2023|-|-|
 |[Advances in apparent conceptual physics reasoning in GPT-4](https://arxiv.org/abs/2303.17012)|arxiv|29/03/2023|-|-|
 |[Using Large Language Model to Solve and Explain Physics Word Problems Approaching Human Level](https://arxiv.org/pdf/2309.08182.pdf)|arxiv|20/09/2023|-|-|
