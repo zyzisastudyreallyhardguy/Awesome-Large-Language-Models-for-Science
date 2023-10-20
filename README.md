@@ -76,6 +76,7 @@ A curated list of science-focused large language model resources: LLM4Science.
 |[Using Large Language Model to Solve and Explain Physics Word Problems Approaching Human Level](https://arxiv.org/pdf/2309.08182.pdf)|arxiv|20/09/2023|-|-|
 |[MeLM, a generative pretrained language modeling framework that solves forward and inverse mechanics problems](https://www.sciencedirect.com/science/article/pii/S0022509623002582)|Journal of the Mechanics and Physics of Solids|23/09/2023|-|-|
 |[Perspective: Large Language Models in Applied Mechanics](https://asmedigitalcollection.asme.org/appliedmechanics/article-abstract/90/10/101008/1164084/Perspective-Large-Language-Models-in-Applied?redirectedFrom=fulltext)|Jouranl of Applied Mechanics|17/07/2023|-|-|
+|[Evaluating Large Language Models on a Highly-specialized Topic, Radiation Oncology Physics](https://arxiv.org/abs/2304.01938)|arXiv|01/04/2023|-|-|
 
 ## Material Science 
 | Title | Venue | Date(D/M/Y) | Code | Note |
@@ -85,6 +86,8 @@ A curated list of science-focused large language model resources: LLM4Science.
 |[Accelerated materials language processing enabled by GPT](https://arxiv.org/abs/2308.09354)|arxiv|18/08/2023|-|-|
 |[Benefits, limits, and risks of GPT-4 as an AI chatbot for medicine](https://www.nejm.org/doi/full/10.1056/NEJMsr2214184)|The New England journal of medicine|30/03/2023|-|-|
 |[BioinspiredLLM: Conversational Large Language Model for the Mechanics of Biological and Bio-inspired Materials](https://arxiv.org/ftp/arxiv/papers/2309/2309.08788.pdf)|arxiv|15/09/2023|-|-|
+|[MatSciBERT: A materials domain language model for text mining and information extraction](https://www.nature.com/articles/s41524-022-00784-w)|computational materials|03/05/2022|-|-|
+|[MatSciBERT: A Materials Domain Language Model for Text Mining and Information Extraction](https://arxiv.org/ftp/arxiv/papers/2109/2109.15290.pdf)|computational materials|30/09/2021|-|-|
 
 ## Math
 | Title | Venue | Date(D/M/Y) | Code | Note |
